@@ -22,7 +22,7 @@ Customer B like restaurant 2 so he's most probable to like restaurant 1 too.<br 
 3-Then we will create a pivot table.<br />
 4-It will take users as rows and movies as columns<br />
 5-The cell will be filled by the rating they give to a movie they watched<br />
-6-Null values will be filled by 0
+6-Null values will be filled by 0<br />
 7-There are 943 users<br />
 8-we will compress the data to have 1664 * 943 to 1664*12<br />
 9-Then we will find correlation of every movie with each other based on user ID<br />
